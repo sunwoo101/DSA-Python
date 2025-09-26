@@ -1,3 +1,8 @@
+# Time: O(n log n)
+# Space: O(n)
+# Best Time: O(n)
+# Best Space: O(n)
+
 from typing import List
 
 

@@ -1,3 +1,8 @@
+# Time: O(n · k)
+# Space: O(n · k)
+# Best Time: O(n · k)
+# Best Space: O(n · k)
+
 from typing import List
 
 

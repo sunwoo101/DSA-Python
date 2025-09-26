@@ -1,6 +1,12 @@
+# Time: O(n · k log k)
+# Space: O(n · k)
+# Best Time: O(n · k)
+# Best Space: O(n · k)
+
 # Iterate through input
 # If map of string arrays is emptym add the element to a new list in the map
 # Check if map includes a key that equals sorted element, then add
+
 from typing import List
 
 

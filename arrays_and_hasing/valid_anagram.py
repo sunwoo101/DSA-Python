@@ -1,3 +1,8 @@
+# Time: O(n)
+# Space: O(1)  (O(n) if counting all unique characters explicitly)
+# Best Time: O(n)
+# Best Space: O(1)
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):
